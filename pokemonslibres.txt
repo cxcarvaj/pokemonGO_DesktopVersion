@@ -1,0 +1,13 @@
+nombre,poder,velocidad,imagen,tipo
+bulbasur,50,2,/images/bulbasaur.gif,planta
+chansey,30,2,/images/chansey.gif,psiquico
+charmander,60,4,/images/charmander.gif,fuego
+jigglypuff,30,3,/images/jigglypuff.gif,psiquico
+magikarp,20,1,/images/magikarp-f.gif,agua
+pikachu,60,8,/images/pikachu.gif,electrico
+ponyta,60,8,/images/ponyta.gif,fuego
+psyduck,30,4,/images/psyduck.gif,psiquico
+scyther,50,8,/images/scyther.gif,planta
+snorlax,40,2,/images/snorlax.gif,psiquico
+greninja,95,9,/images/Greninja.gif,agua-dark
+froakie,80,7,/images/Froakie.gif,agua
